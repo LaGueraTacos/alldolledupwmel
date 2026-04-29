@@ -24,3 +24,27 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.bjcree-regular {
+  font-family: "BJCree", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bjcree-medium {
+  font-family: "BJCree", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.bjcree-semibold {
+  font-family: "BJCree", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.bjcree-bold {
+  font-family: "BJCree", serif;
+  font-weight: 700;
+  font-style: normal;
+}
